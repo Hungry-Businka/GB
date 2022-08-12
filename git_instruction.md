@@ -24,3 +24,21 @@
 Ветка Test branch
 Ветка Test branch
 
+<<<<<<< HEAD
+=======
+Ветка Test_2
+Ветка Test_2
+Ветка Test_2
+Ветка Test_2
+Ветка Test_2
+Ветка Test_2
+Ветка Test_2
+
+Ветка Test_3
+Ветка Test_3
+Ветка Test_3
+Ветка Test_3
+Ветка Test_3
+Ветка Test_3
+
+>>>>>>> test_3
